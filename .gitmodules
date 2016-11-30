@@ -1,0 +1,3 @@
+[submodule "runahead-prefetch"]
+	path = runahead-prefetch
+	url = https://github.com/acshulyak/runahead-prefetch.git
