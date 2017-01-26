@@ -1,3 +1,6 @@
 [submodule "runahead-prefetch"]
 	path = runahead-prefetch
 	url = https://github.com/acshulyak/runahead-prefetch.git
+[submodule "trace_gen"]
+	path = trace_gen
+	url = git@github.com:acshulyak/trace_gen.git
