@@ -4,3 +4,6 @@
 [submodule "trace_gen"]
 	path = trace_gen
 	url = git@github.com:acshulyak/trace_gen.git
+[submodule "TPC-H_on_hive_analysis"]
+	path = TPC-H_on_hive_analysis
+	url = https://github.com/acshulyak/TPC-H_on_hive_analysis.git
