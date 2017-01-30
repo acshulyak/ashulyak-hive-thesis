@@ -7,3 +7,6 @@
 [submodule "TPC-H_on_hive_analysis"]
 	path = TPC-H_on_hive_analysis
 	url = https://github.com/acshulyak/TPC-H_on_hive_analysis.git
+[submodule "mysql_tpch"]
+	path = mysql_tpch
+	url = https://github.com/acshulyak/mysql_tpch.git
